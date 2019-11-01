@@ -1,0 +1,8 @@
+2019-2-19
+1. com.freesky.utils.JsonParser
+	change readV2RayJSON() method to parse the new format of config.json
+	from "inbound" to "inbounds"
+2. com.freesky.rest.json.V2RayJsonChecker
+	change readJSON() method to parse the new format of config.json
+	from "inbound" to "inbounds"
+

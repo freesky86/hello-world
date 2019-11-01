@@ -1,0 +1,8 @@
+从官网
+http://www.theonionrouter.com/ 
+http://torproject.org/
+下载Tor简体字版
+
+参考 http://blog.sina.com.cn/s/blog_667c5c240102vpwq.html
+
+选择一个bridge，我选的meek-amazon,如果连不上就换一个，直到连上。

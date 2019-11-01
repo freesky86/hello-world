@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>学习十九大</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../resource/css/bootstrap.min.css">
+  <script src="../resource/js/jquery-3.2.1.min.js"></script>
+  <script src="../resource/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>网上学习娱乐</h1>
+  <h2>免责声明</h2> 
+  <p>本网站提供的方法仅供学习和娱乐之用。不得从事商业用途。</p> 
+  <p>请大家自律使用，不得违反中华人民共和国法律法规和治安条例。否则，后果自负。</p> 
+</div>
+<div class="container">
+  <h2>这里介绍Windows、安卓手机以及苹果手机和苹果电脑的科学上网方法。</h2>
+  
+  <h3 style="color: red">使用本方法之前，先退出国产杀毒软件。比如360，金山毒霸之类的。</h3>
+  <h3>一、Windows客户端 <a href="../resource/software/a.zip">下载</a> </h3>
+  <p>下载后解压，如果没有压缩软件，请<a href="http://haozip.2345.com/">下载</a></p>
+  <p> 请双击 v2ray.exe</p>
+  <p>然后打开火狐(FireFox)浏览器(建议更新到最新版)， 点右上角 打开菜单  --> 选项，最下面  网络代理, 点 设置...</p>
+  <div ><img src="../resource/image/firefox_proxy_setting4.png"></div>
+  <br />
+  <p>旧版火狐(FireFox)浏览器设置如下 点菜单 -> 选项 -> 高级 -> 设置 -> 手动代理设置，在 SOCKS Host 填上 127.0.0.1，后面的 Port 填 1080，再勾上使用 SOCKS v5 时代理 DNS (这个勾选项在旧的版本里叫做远程 DNS)。操作图见下：</p>
+  <div ><img src="../resource/image/firefox_proxy_setting2.png"></div>
+  <div ><img src="../resource/image/firefox_proxy_setting3.png"></div>
+  <div ><img src="../resource/image/firefox_proxy_setting4.png"></div>
+  <br />
+  <h3>然后就可以访问google, youtube之类的网站了。</h3>
+   <br />
+  <h3>谷歌浏览器(Chrome)需要下载插件 Falcon Proxy，注意安装插件需要能翻墙，如果不知道怎样安装插件请使用火狐(Firefox)浏览器。</h3>
+  <p>点击右上角插件图标</p>
+  <div ><img src="../resource/image/Falcon-Proxy-0.png"></div>
+  <p>点 【添加... 】 增加如下配置并保存</p>
+  <div ><img src="../resource/image/Falcon-Proxy-1.png"></div>
+  <p>点如下开关，启动代理</p>
+  <div ><img src="../resource/image/Falcon-Proxy-2.png"></div>
+  
+  <br />
+ 
+  <h3>二、安卓手机/平板 客户端   
+  <p>  下载 V2RayNG 安装完成后，修改服务器配置信息如下，点右上角 对勾 保存。</p>
+  <p>如果安卓市场找不到V2RayNG，可以点 <a href="../resource/software/v2rayNG_0.3.10_apk-dl.com.apk">这里</a> 下载。
+  <a href="../resource/software/v2rayNG_v0.2.6_apkpure.com.apk">备用版本</a>
+  </p>
+   <p><img src="../resource/image/v2ray-android-vip-1.jpg"></p>
+   <p>上图中的 用户ID 会单独发，请复制 粘贴。</p>
+   <p><img src="../resource/image/v2ray-android-vip-2.jpg"></p>
+  <br />
+  <h3>如上图配置好之后，点击左下角画斜杠的纸飞机，变成没有斜杠的样子</h3>
+
+  <h3>然后打开手机浏览器就可以访问google, youtube之类的网站了。</h3>
+ 
+  <h3>三、苹果手机iPhone/平板iPad </h3>
+  <p> App Store 下载 Shadowrocket ,现在是12元RMB，还没发现免费版，可能是因为v2ray的vmess方式用的人比较少，应用也比较少，所以被封的可能性也小。</p>
+  <p>使用方法请自行上网查找，参数设置 参考上面的安卓。
+  这个是<a href="https://chrischan514.com/2017/10/29/%E6%95%99%E5%AD%B8/v2ray/v2ray-ios-%E5%AE%A2%E6%88%B6%E7%AB%AF%E7%AF%87/">参考链接 </a>
+  </p>
+  <br />
+
+  
+  <h3>四、苹果电脑Mac系统 <a href="../resource/software/v2ray-v3.14-macos-ifreesky.zip">下载 </a></h3>  
+  <h4>解压后打开v2ray，设置socks代理，即可通过浏览器访问google。</h4>
+  <p>Mac系统设置全局socks代理方法如下 选择 系统设置(System Preferences)，在 “Internet & Wireless” 下面选择 网络“Network”</p>
+  <div><img src="../resource/image/mac-socks-proxy.png" /></div>
+  <h4>或者</h4>
+  <h4>下载<a href="https://github.com/Cenmrev/V2RayX">V2RayX</a> 使用方法请自行上网查找，参数设置参考安卓。</h4>
+
+  <br />
+</div>
+
+</body>
+</html>
