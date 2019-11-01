@@ -1,0 +1,278 @@
+{
+ "log": {
+  "access": "/var/log/v2ray/access.log",
+  "loglevel": "info",
+  "error": "/var/log/v2ray/error.log"
+ },
+ "api": {
+  "services": [
+   "StatsService"
+  ],
+  "tag": "api"
+ },
+ "dns": null,
+ "stats": {},
+ "routing": {
+  "strategy": "rules",
+  "settings": {
+   "rules": [
+    {
+     "port": null,
+     "domain": null,
+     "outboundTag": "blocked",
+     "ip": [
+      "0.0.0.0/8",
+      "10.0.0.0/8",
+      "100.64.0.0/10",
+      "169.254.0.0/16",
+      "172.16.0.0/12",
+      "192.0.0.0/24",
+      "192.0.2.0/24",
+      "192.168.0.0/16",
+      "198.18.0.0/15",
+      "198.51.100.0/24",
+      "203.0.113.0/24",
+      "::1/128",
+      "fc00::/7",
+      "fe80::/10"
+     ],
+     "type": "field"
+    },
+    {
+     "outboundTag": "api",
+     "type": "field",
+     "inboundTag": [
+      "api"
+     ]
+    }
+   ],
+   "domainStrategy": null
+  }
+ },
+ "policy": {
+  "system": {
+   "statsInboundUplink": true,
+   "statsInboundDownlink": true
+  },
+  "levels": {
+   "0": {
+    "statsUserDownlink": true,
+    "statsUserUplink": true
+   }
+  }
+ },
+ "inbounds": [
+ {
+  "port": 14000,
+  "settings": {
+   "clients": [
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love1234@v2ray.com",
+     "id": "65f5abaa-1cce-9999-1234-09a168528e59"
+    },
+	{
+     "alterId": 10,
+     "level": 0,
+     "email": "love8888@v2ray.com",
+     "id": "65f5abaa-1cce-0006-8888-09a168528e5a"
+    },
+	{
+     "alterId": 10,
+     "level": 0,
+     "email": "love6666@v2ray.com",
+     "id": "65f5abaa-1cce-0006-6666-09a168568e5a"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love65522@v2ray.com",
+     "id": "65f5abaa-1cce-0006-5522-09a164528e5a"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love65523@v2ray.com",
+     "id": "65f5abaa-0abc-0006-5523-09a164528e5a"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love65524@v2ray.com",
+     "id": "6dcb0d68-d423-0006-5524-180f0e75e968"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love65525@v2ray.com",
+     "id": "4a1d35c3-b9f7-0006-5525-07db2ab69fb1"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love65526@v2ray.com",
+     "id": "bb56476d-aae2-0006-5526-71350c1c8f4e"
+    },
+	
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "g20-0904@v2ray.com",
+     "id": "798bd440-76bc-4a9b-0904-bf5f305a1811"
+    },	
+	
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6103@v2ray.com",
+     "id": "ded8860d-7c6d-4a23-6103-fd718ee7ff15"
+    },
+
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6300@v2ray.com",
+     "id": "66068dba-1b8d-46d7-6300-3f2822b24541"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6301@v2ray.com",
+     "id": "792fb24d-0fce-45d9-6301-b1fd30a47043"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6302@v2ray.com",
+     "id": "55aa72a6-290e-451c-6302-5a88e8486eef"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6303@v2ray.com",
+     "id": "93378e38-88b6-44e2-6303-7d581843258b"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6304@v2ray.com",
+     "id": "5f73ad94-f406-48da-6304-be0a236de549"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6305@v2ray.com",
+     "id": "b814ccd8-9432-4d3f-6305-622b2c0a4d08"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6306@v2ray.com",
+     "id": "2715b50f-aea8-46f0-6306-ee117c34376e"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6307@v2ray.com",
+     "id": "2703c6f8-5e2c-4012-6307-1d0e51a6cbc2"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6308@v2ray.com",
+     "id": "55b00847-fd2b-4418-6308-e944c90a058d"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6309@v2ray.com",
+     "id": "c6d0dba4-ca1e-48fc-6309-f8629112deee"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6310@v2ray.com",
+     "id": "4e7ed366-1f5e-492a-6310-a236cc97901f"
+    },
+	
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6400@v2ray.com",
+     "id": "dba829db-299f-4a56-6400-7900c76093ba"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6401@v2ray.com",
+     "id": "f171a58f-3f97-484f-6401-b2faa34ec1b5"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6500@v2ray.com",
+     "id": "4939ac30-7053-4a94-6500-88eec4df3b96"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6501@v2ray.com",
+     "id": "b5be9b03-ca90-4572-6501-3dd7e6014ada"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "love6502@v2ray.com",
+     "id": "8efd87e1-d116-4f83-6502-9be5cd614367"
+    },
+    {
+     "alterId": 10,
+     "level": 0,
+     "email": "g20-6600@v2ray.com",
+     "id": "5f23dcf8-31f1-4cb5-6600-94a5bdc8ee2a"
+    }
+   ]
+  },
+  "tag": "A",
+  "protocol": "vmess",
+  "streamSettings": {
+   "kcpSettings": {
+    "uplinkCapacity": 5,
+    "header": {
+     "request": null,
+     "response": null,
+     "type": "wechat-video"
+    },
+    "readBufferSize": 1,
+    "mtu": 1350,
+    "writeBufferSize": 1,
+    "congestion": false,
+    "downlinkCapacity": 100,
+    "tti": 20
+   },
+   "tcpSettings": null,
+   "httpSettings": null,
+   "security": "",
+   "wsSettings": null,
+   "tlsSettings": {},
+   "network": "kcp"
+  }
+ },
+ {
+   "port": 54979,
+   "listen": "127.0.0.1",
+   "settings": {
+    "address": "127.0.0.1"
+   },
+   "tag": "api",
+   "protocol": "dokodemo-door"
+ }
+ ],
+ "outbounds": [
+	  {
+		"protocol": "freedom",
+		"settings": {}
+	  }
+  ]
+}

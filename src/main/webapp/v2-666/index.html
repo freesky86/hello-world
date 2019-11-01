@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>V2 Account</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../resource/css/bootstrap.min.css">
+  <script src="../resource/js/jquery-3.2.1.min.js"></script>
+  <script src="../resource/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="jumbotron text-center">
+  <h1>V2Ray使用说明</h1>
+</div>
+<div class="container">
+
+	<h3>一、Windows客户端  </h3>
+    <h4>下载 <a href="./config.json" download="config.json"> config.json </a> 文件，并替换原来的同名文件。</h4>
+  <br />
+  
+  <h3>二、安卓手机/平板 客户端   </h3>
+  <h4>把下图中的地址 v2.ifreesky.cn 改成 vip.ifreesky.cn </h4>
+  <h4>填上你的专属ID: 23584446-ba73-6f88-0011-d5c144da32e1</h4>
+   <div><img src="../resource/image/v2/v2-android-1.png" class="img-responsive center-block"></div>
+  <br />
+  <h4>如上图配置好之后，点击左下角画斜杠的纸飞机，变成没有斜杠的样子</h4>
+
+  <h4>然后打开手机浏览器就可以访问google, youtube之类的网站了。</h4>
+ 
+  <h3>三、苹果手机iPhone/平板iPad </h3>
+   <h4>把下图中的地址 v2.ifreesky.cn 改成 vip.ifreesky.cn </h4>
+   <h4>填上你的专属ID: 23584446-ba73-6f88-0011-d5c144da32e1</h4>
+   <h4> ***注意每一个参数都要配置的一模一样</h4>
+  <div><img src="../resource/image/v2/v2-apple-1.jpg" class="img-responsive center-block"></div>
+  <br />
+  
+  <h3>四、苹果电脑Mac系统 <a href="https://github.com/v2ray/v2ray-core/releases/download/v3.18/v2ray-macos.zip" download="v2ray-macos.zip"> 下载 </a></h3>  
+  <h4>打开解压后的文件夹，用上面修改后的 config.json 替换同名文件。</h4>
+  <h4>然后打开v2ray，设置socks代理，即可通过浏览器访问google。</h4>
+  <h4>Mac系统设置全局socks代理方法如下 </h4>
+  <h4>点击右上角无线网络图标，选择 "打开网络偏好设置..."，点 "高级..."，选 "代理"，设置如下</h4>
+  <div><img src="../resource/image/mac-socks-proxy.jpg" class="img-responsive center-block" /></div>
+  <h4>或者</h4>
+  <h4>下载<a href="https://github.com/Cenmrev/V2RayX">V2RayX</a> 使用方法请自行上网查找，参数设置参考安卓。</h4>
+  <h4><a href="https://233blog.com/post/25/"> V2RayX参考配置  </a></h4>
+  <h4><a href="https://www.youtube.com/watch?v=nAq-ElPAw_A"> V2RayX参考视频 </a></h4>
+  <br />
+  
+  <h3>五、Linux系统 </h3>
+  <h4>以Ubuntu系统为例</h4>
+  <h4>1.打开终端，执行安装指令</h4>
+  <p>$ bash <(curl -L -s https://install.direct/go.sh)</p>
+  <h4>2.安装后的配置文件config.json在/etc/v2ray目录下</h4>
+  <h4>3.先停止v2ray</h4>
+  <p>$ service v2ray stop</p>
+  <h4>4.把配置好的config.json文件(可以拷贝windows下的该文件)覆盖原来的文件</h4>
+  <p>比如修改后的 config.json 文件在 /home/user/Downloads/v2ray/ 目录下</p>
+  <p>$ cd /et/v2ray</p>
+  <p>$ sudo cp /home/user/Downloads/v2ray/config.json config.json</p>
+  <h4>5.启动v2ray</h4>
+  <p>$ service v2ray start</p>
+  <h4>6.打开火狐Firefox，设置代理如下</h4>
+  <p>菜单[Edit-Preference]进入Advanced页面，选择[Network]Tab页，</p>
+  <p>在 Connection Setting... 里面配置手动代理Socks V5.</p>
+  <img src="../resource/image/firefox_proxy_setting4.png" class="img-responsive center-block" />
+  <h4>7.在地址栏输入google.com，就可以访问了。</h4>
+  <br />
+  <h1>使用中有任何问题，请扫码入群讨论或加群主微信 Freeskyv </h1>
+  <p><img src="../resource/image/wechat-group8.jpg" class="img-responsive center-block" /></p>
+  <br />
+</div>
+
+
+</body>
+</html>
+

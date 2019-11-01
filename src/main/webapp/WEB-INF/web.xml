@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+    <display-name>Whitecoin SSR</display-name>
+	
+	<filter>
+		<filter-name>UrlFilter</filter-name>
+		<filter-class>com.freesky.filter.UrlFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>UrlFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+  
+    <servlet>
+        <description>Whitecoin price query servlet</description>
+        <display-name>RestServlet for whitecoin</display-name>
+        <servlet-name>RestServlet</servlet-name>
+        <servlet-class>com.freesky.servlet.RestServlet</servlet-class>
+	    <load-on-startup>1</load-on-startup>
+    </servlet>
+
+	<servlet-mapping>
+		<servlet-name>RestServlet</servlet-name>
+		<url-pattern>/xwc</url-pattern>
+	</servlet-mapping>
+
+    <servlet>
+		<description>VIP user servlet</description>
+		<display-name>VipController</display-name>
+		<servlet-name>VipController</servlet-name>
+		<servlet-class>com.freesky.controller.VipController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>VipController</servlet-name>
+		<url-pattern>/net/vip</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<description>Account Controller Servlet</description>
+		<display-name>AccountController</display-name>
+		<servlet-name>AccountController</servlet-name>
+		<servlet-class>com.freesky.controller.AccountController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>AccountController</servlet-name>
+		<url-pattern>/net/account</url-pattern>
+	</servlet-mapping> 
+	
+	<servlet>
+		<description></description>
+		<display-name>V2RayAccountController</display-name>
+		<servlet-name>V2RayAccountController</servlet-name>
+		<servlet-class>com.freesky.controller.V2RayAccountController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>V2RayAccountController</servlet-name>
+		<url-pattern>/net/v2</url-pattern>
+	</servlet-mapping> 
+  
+  <servlet>
+  	<description>SSR Controller</description>
+  	<display-name>SsrServlet</display-name>
+  	<servlet-name>SsrServlet</servlet-name>
+  	<servlet-class>com.freesky.servlet.SsrServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>SsrServlet</servlet-name>
+  	<url-pattern>/net</url-pattern>
+  </servlet-mapping> 
+  
+  <servlet>
+  	<description>Statistics Controller</description>
+  	<display-name>StatisticsController</display-name>
+  	<servlet-name>StatisticsController</servlet-name>
+  	<servlet-class>com.freesky.controller.StatisticsController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>StatisticsController</servlet-name>
+  	<url-pattern>/stats</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<description>Shell Controller</description>
+  	<display-name>ShellController</display-name>
+  	<servlet-name>ShellController</servlet-name>
+  	<servlet-class>com.freesky.controller.ShellController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ShellController</servlet-name>
+  	<url-pattern>/shell</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<description>User Controller</description>
+  	<display-name>UserController</display-name>
+  	<servlet-name>UserController</servlet-name>
+  	<servlet-class>com.freesky.controller.UserController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>UserController</servlet-name>
+  	<url-pattern>/userOperation</url-pattern>
+  </servlet-mapping>
+  
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>

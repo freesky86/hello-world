@@ -1,0 +1,69 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="zh">
+<head>
+  <title>白币爱好者的欢乐家园</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./resource/css/bootstrap.min.css">
+  <script src="./resource/js/jquery-3.2.1.min.js"></script>
+  <script src="./resource/js/bootstrap.min.js"></script>
+  
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script>
+	  (adsbygoogle = window.adsbygoogle || []).push({
+		google_ad_client: "ca-pub-9388827702772354",
+		enable_page_level_ads: true
+	  });
+	</script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>白币Whitecoin(XWC)中国社区</h1>
+  <p>白币爱好者的欢乐家园</p>
+  <p>白币官网: http://www.whitecoin.info/</p>
+  <p>中国区联系人: peter@whitecoin.info</p>
+  <p>网站合作: xwc2018@outlook.com</p>
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>行情及工具</h3>        
+      <p><a href="xwc">白币价格查询</a></p>
+	  <p><a href="https://www.richlist.eu/whitecoin/">白币排名</a></p>
+
+    </div>
+    <div class="col-sm-4">
+      <h3>白币网站</h3>
+      <p><a href="http://www.whitecoin.info/">白币官网：http://www.whitecoin.info/</a></p>
+      <p><a href="https://bitcointalk.org/index.php?topic=804288.0">白币论坛：https://bitcointalk.org/index.php?topic=804288.0</a></p>
+      <p><a href="https://xwcslack.herokuapp.com/">白币团队：https://xwcslack.herokuapp.com/</a></p>
+      <p>白币交易：</p>
+      <p><a href="https://bittrex.com/Market/Index?MarketName=BTC-XWC">1. B网 bittrex.com </a></p>
+      <p><a href="https://alcurex.com/#XWC-BTC">2. https://alcurex.com/#XWC-BTC</a></p>
+	  <p>中国团队QQ群：</p>
+	  <h5>1,POS币交流群，群文件有我们翻译的中文资料，新手必看，群号码：159051681</h5>
+	  <h5>2,白币教学群，白币之家，视频教学，真人指导，群号码：567231175</h5>
+	  <h5>3.电报群：https://t.me/joinchat/GEij1A6tgcpAoWD7B3JkXA </h5>
+	  
+	  <br />
+    </div>
+    <div class="col-sm-4">
+      <h3>白币入门</h3>
+      <p><a href="resource/doc/白币-钱包使用说明.docx">白币-钱包使用说明</a></p>
+      <p><a href="resource/doc/WhiteOS.pdf">白币操作系统WhiteOS</a></p>
+	  <p><a href="https://mp.weixin.qq.com/s?__biz=MzUxODI4MzU4MQ==&mid=100000003&idx=1&sn=96430c43b0c96abc373cadc6e406c8cc&chksm=798a09514efd80477608d264dcee60b34f6cd75f55096f6461ae897c302944cc42d72001839e&scene=18&pass_ticket=5qhFwVLHQpJjOQZmAF2zUOnko9mutkr0YnMEtoH88Pe3l3LHfwc5ySXb8EMW9%2F88#rd">深度探讨POS机制</a></p>
+      <p><a href="https://mp.weixin.qq.com/s?__biz=MzUxODI4MzU4MQ==&mid=100000011&idx=1&sn=be90758610639b998f5b92e853fe6dc9&chksm=798a09594efd804f02f1c38c1a95365105fc098b4afb5a041f06fda652c356c4b7602216c743&mpshare=1&scene=1&srcid=0921YHmJQyM878d6sRU3Td8V&pass_ticket=5qhFwVLHQpJjOQZmAF2zUOnko9mutkr0YnMEtoH88Pe3l3LHfwc5ySXb8EMW9%2F88#rd">POW我们美好家园之殇</a></p>
+	  <p> *** *** *** </p>
+      <p><a href="resource/doc/bitcoin.pdf">创世论文(English)</a></p>
+      <p><a href="resource/doc/bitcoin-zh-cn.pdf">创世论文(中文版)</a></p>	
+      <p><a href="resource/doc/blockchain.pdf">区块链行业字典</a></p>		  
+	</div>
+  </div>
+</div>
+<jsp:include page="_footer.jsp"></jsp:include>
+</body>
+</html>

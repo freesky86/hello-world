@@ -1,0 +1,33 @@
+Ubuntu安装shadowsocksR的方法，在网上试了几个方案都不能用，在几乎放弃的情况下，找到了一个简单可行的方案。网址如下
+https://www.djangoz.com/2017/08/16/linux_setup_ssr/
+
+只需要在命令行窗口执行以下指令即可。
+wget http://www.djangoz.com/ssr
+sudo mv ssr /usr/local/bin
+sudo chmod 766 /usr/local/bin/ssr
+ssr install
+ssr config
+-------------------------------------------------------------------------------
+这里要特别说明的是，执行ssr config时，通过vi指令修改配置不太方便。
+有一个办法是把/usr/local/share/shadowsocksr目录下的config.json文件copy到别的路径，比如/home/<user>/Downloads/目录下，通过可视化窗口gedit进行编辑，然后通过下面的指令覆盖原来的文件。
+sudo cp config.json /usr/local/share/shadowsocksr
+然后再执行ssr config,看看修改是否正确。然后不做任何修改，通过:q!退出，SSR客户端就启动了。
+然后打开Firefox，菜单[Edit-Preference]进入Advanced页面，选择[Network]Tab页，在 Connection Setting... 里面配置手动代理Socks V5.可参考https://dcamero.azurewebsites.net/shadowsocksr.html#linux 中的配置界面。最下面Proxy DNS when using SOCKS v5 勾选与否都可以。好像勾选更快。
+
+停止SSR客户端：sudo ssr stop
+启动SSR客户端: sudo ssr start
+
+Q&A
+如果执行wget指令保持，需要执行下面的指令进行安装。	
+sudo apt-get install git
+---------------------------------------END-------------------------------
+
+
+777
+r=4 w=2 x=1
+111  111 111
+rw-r--r--
+644
+
+
+
