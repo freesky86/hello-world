@@ -21,7 +21,7 @@
 <body>
 
 <div class="jumbotron text-center">
-  <h1>虚拟币中国社区</h1>
+  <h1>虚拟币中国社区 V1</h1>
 <!--   <p>白币爱好者的欢乐家园</p> -->
 <!--   <p>白币官网: http://www.whitecoin.info/</p> -->
 <!--   <p>中国区联系人: peter@whitecoin.info</p> -->
