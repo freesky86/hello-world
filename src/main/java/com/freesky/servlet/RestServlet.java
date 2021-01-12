@@ -462,9 +462,12 @@ public class RestServlet extends HttpServlet {
 		/**
 		 * 每隔2分钟监控一下价格是否连续变化
 		 */
-		PriceTask priceTask = new PriceTask();
-		// delay 6 seconds to avoid calling REST service at the same time.
-		timer.schedule(priceTask, 6 * 1000, 2 * 60 * 1000);
+		String value = this.getServletContext().getInitParameter("monitorPriceChange");
+		if (Boolean.valueOf(value)) {
+			PriceTask priceTask = new PriceTask();
+			// delay 6 seconds to avoid calling REST service at the same time.
+			timer.schedule(priceTask, 6 * 1000, 2 * 60 * 1000);
+		}
 		
 	}
 
