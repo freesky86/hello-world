@@ -29,6 +29,7 @@
   <p>网站合作: xwc2018@outlook.com</p>
 </div>
   
+  
 <div class="container">
 	<h3>比特币价格实时行情 [${bean.timeStamp}]</h3>
 	<h4 style="color: red">${bean.errMsg}</h4>
@@ -47,6 +48,8 @@
 	<h4>成交量 : ${bean.btcVolume} BTC </h4>
 	<h4>成交量 : ${bean.btcBaseVolume} USDT </h4>	
 	
+	<img alt="bitcoin恐慌/贪婪指数" src="https://alternative.me/crypto/fear-and-greed-index.png" />
+	
 <!-- 	<h4>--------------------白币--------------------</h4> -->
 <%-- 	<h4>白币(XWC) : ${bean.bittrexXwc} BTC (Bittrex)</h4> --%>
 <%-- 	<h4>白币(XWC) : ${bean.xwcRmb} RMB (内盘) </h4> --%>
@@ -61,6 +64,7 @@
 	<br />
 	<a href="/"><img src="./resource/image/home.png"/>主页</a>
 </div>
+
 <jsp:include page="_footer.jsp"></jsp:include>
 ${bean.visitNumber}
 </body>
