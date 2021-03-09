@@ -25,7 +25,7 @@ public class FileUtils {
     // "/etc/v2ray/daily/"
     // "C:\\Temp\\"
 //    private static final String FILE_FOLDER = "C:\\Temp\\";
-	private static final String FILE_FOLDER = "/etc/v2ray/daily/";
+	private static final String FILE_FOLDER = "/usr/local/etc/v2ray/daily/";
 
     private static final String FILE_NAME = "latest.txt";
     

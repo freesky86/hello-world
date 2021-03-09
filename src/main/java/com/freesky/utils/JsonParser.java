@@ -28,7 +28,7 @@ public class JsonParser {
 	
 	private static final Logger logger = Logger.getLogger(JsonParser.class);
 
-//	public static final String V2RAY_PATH = "/etc/v2ray/";
+//	public static final String V2RAY_PATH = "/usr/local/etc/v2ray/";
 	
 	private static final Map<Integer, String> prefixMap = new HashMap<>();
 	
@@ -216,9 +216,11 @@ public class JsonParser {
 	
 	public static void appendShell(String filename, int port, int limit) {
 		String separator = System.getProperty("line.separator");  
+		// old one
 //		String content = "/usr/bin/v2ray/v2ctl api --server=127.0.0.1:54979 StatsService.GetStats 'name: \"user>>>{0}@v2ray.com>>>traffic>>>downlink\" reset: false' | grep value >> /etc/v2ray/log/{1}-down.txt";
 //		String message = MessageFormat.format(content, "8600", "8600");
-		String content = "/usr/bin/v2ray/v2ctl api --server=127.0.0.1:54979 StatsService.GetStats 'name: \"user>>>%s@v2ray.com>>>traffic>>>downlink\" reset: true' | grep value >> /etc/v2ray/log/%s-down.txt";
+		// new one
+		String content = "/usr/local/bin/v2ctl api --server=127.0.0.1:54979 StatsService.GetStats 'name: \"user>>>%s@v2ray.com>>>traffic>>>downlink\" reset: true' | grep value >> /usr/local/etc/v2ray/log/%s-down.txt";
 //		String message = String.format(content, "love8600", "love8600");
 		String prefix = prefixMap.get(limit);
 		String userId = prefix + port;
