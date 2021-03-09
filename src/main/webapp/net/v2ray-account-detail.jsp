@@ -3,7 +3,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <html lang="zh">
 <head>
-  <title>V2 Account</title>
+  <title>Account Settings</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="../resource/css/bootstrap.min.css">
   <script src="../resource/js/jquery-3.2.1.min.js"></script>
@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="jumbotron text-center">
-  <h1>V2Ray使用说明</h1>
+  <h1>使用说明 V1.1</h1>
 </div>
 <div class="container">
 	<h2 style="color: blue">你的专属ID</h2>
@@ -31,13 +31,13 @@
 	<h4>1.点击下面的连接下载客户端</h4>
   <h4>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.ifreesky.cn/resource/software/v2ray-windows-64.zip" download="v2ray-windows-64.zip">64位下载 </a>
+  <a href="https://res.freesky.ltd/resource/software/v2l-windows-64.zip" download="v2l-windows-64.zip">64位下载 </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.ifreesky.cn/resource/software/v2ray-windows-32.zip" download="v2ray-windows-32.zip"> 32位下载</a>
+  <a href="https://res.freesky.ltd/resource/software/v2l-windows-32.zip" download="v2l-windows-32.zip"> 32位下载</a>
   </h4>
   <h4>2.下载后解压 (如果没有压缩软件，请点<a href="https://www.7-zip.org/"> 这里 </a>下载)</h4>
   <h4>3.打开解压后的文件夹，用上面修改后的 config.json 文件替换同名文件。</h4>
-  <h4>4.双击 v2ray.exe，看到黑窗口说明启动成功。<span style="color: red">***注意：黑窗口要一直开着才能翻墙。</span> </h4>
+  <h4>4.双击 abc.exe，看到黑窗口说明启动成功。<span style="color: red">***注意：黑窗口要一直开着才能翻墙。</span> </h4>
   <h4>5.然后打开火狐(FireFox)浏览器(建议更新到最新版)， 点右上角 打开菜单  --> 选项，最下面  网络代理, 点 设置...</h4>
   <div><img src="../resource/image/firefox_proxy_setting4.png" class="img-responsive center-block"></div>
   <br />
@@ -57,6 +57,7 @@
   <h4>下载 V2RayNG 安装完成后，修改服务器配置信息如下，点右上角 对勾 保存。</h4>
   <h4>如果安卓市场找不到V2RayNG，可以点 <a href="../resource/software/v2rayNG_v0.3.12_apkpure.com.apk" download="v2rayNG.apk">这里</a> 下载。
   </h4>
+  <h4 style="color:red">把下图中的 v2.ifreesky.cn 改成 test.freesky.ltd </h4>
    <div><img src="../resource/image/v2/v2-android-1.png" class="img-responsive center-block"></div>
   <br />
   <h4>如上图配置好之后，点击左下角画斜杠的纸飞机，变成没有斜杠的样子</h4>
@@ -66,16 +67,18 @@
   <h4>有些安卓手机不能使用V2RayNG，可以下载 <a target="_blank" href="https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv"> BifrostV </a> 或 
   <a href="../resource/software/BifrostV_v0.6.8_apkpure.com.apk" download="BifrostV.apk"> BifrostV APK </a>
   配置如下 </h4>
+  <h4 style="color:red">把下图中的 v2.ifreesky.cn 改成 test.freesky.ltd </h4>
   <div><img src="../resource/image/v2/bifrostv.jpg" class="img-responsive center-block"></div>
   
   <h3>三、苹果手机iPhone/平板iPad </h3>
   <h4> App Store 下载 Kitsunebi </h4>
   <h4> 参数设置 如下图 (<span style="color: red">***注意：每一个参数都要配置的一模一样</span>)</h4>
+  <h4 style="color:red">把下图中的 v2.ifreesky.cn 改成 test.freesky.ltd </h4>
   <div><img src="../resource/image/v2/v2-apple-1.jpg" class="img-responsive center-block"></div>
   <br />
   
   <h3>四、苹果电脑Mac系统 </h3>  
-  <h4>1.点 <a href="https://www.ifreesky.cn/resource/software/v2ray-macos.zip" download="v2ray-macos.zip"> 这里 </a>下载客户端</h4>
+  <h4>1.点 <a href="https://res.freesky.ltd/resource/software/v2l-macos.zip" download="v2l-macos.zip"> 这里 </a>下载客户端</h4>
   <h4>2.下载后解压，打开解压后的文件夹，用上面修改后的 config.json 替换同名文件。</h4>
   <h4>3.然后打开v2ray，设置socks代理，即可通过浏览器访问google。</h4>
   <h4>Mac系统设置全局socks代理方法如下: </h4>
@@ -106,8 +109,8 @@
   <img src="../resource/image/firefox_proxy_setting4.png" class="img-responsive center-block" />
   <h4>7.在地址栏输入google.com，就可以访问了。</h4>
   <br />
-  <h1>使用中有任何问题，请扫码入群讨论或加群主微信 Freeskyv </h1>
-  <p><img src="../resource/image/wechat-group8.jpg" class="img-responsive center-block" /></p>
+  <p>-------------------END-----------------------</p>
+  <br />
   <br />
 </div>
 
