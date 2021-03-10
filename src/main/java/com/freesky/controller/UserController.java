@@ -1,6 +1,5 @@
 package com.freesky.controller;
 
-import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -46,15 +45,20 @@ public class UserController extends HttpServlet {
 	private String v2rayFile;
 	private String v2rayAllFile;
 	private String shellFile;
-	private String resultFile;
+//	private String resultFile;
 	private String password;
 
 	@Override
 	public void init() {
 		
 		logger.info("--------read /config/config.properties--------");
-		String path = getServletContext().getRealPath("/");
-		String propertiesFile = path + File.separator + "config" + File.separator + "config.properties";
+//		String path = getServletContext().getRealPath("/");
+		
+		// /opt/tomcat/webapps/ROOT/config/config.properties
+//		String propertiesFile = path + File.separator + "config" + File.separator + "config.properties";
+		
+		// /usr/local/etc/v2ray/config/config.properties
+		String propertiesFile = "/usr/local/etc/v2ray/config/config.properties";
 		Properties pps = new Properties();
 		try {
 			pps.load(new FileInputStream(propertiesFile));
@@ -62,7 +66,7 @@ public class UserController extends HttpServlet {
 			v2rayFile = pps.getProperty("V2RAY_CONFIG_FILE");
 			v2rayAllFile = pps.getProperty("V2RAY_ALL_CONFIG_FILE");
 			shellFile = pps.getProperty("V2RAY_SHELL_ALL");
-			resultFile = pps.getProperty("V2RAY_STATS_RESULT");
+//			resultFile = pps.getProperty("V2RAY_STATS_RESULT");
 			password = pps.getProperty("password");
 			
 		} catch (FileNotFoundException e) {
