@@ -1,0 +1,693 @@
+Updated at: Tue Jun 11 09:00:01 CST 2019 (2019-06-11 21:00:01 Tuesday Tue) EST 
+Info: ./love15-down.txt consumes 10069746 (9 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 634128 (0 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love6601-down.txt consumes 11491276 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 50969333 (48 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6401-down.txt consumes 41835084 (39 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love65524-down.txt consumes 700831 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 327579379 (312 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Tue Jun 11 21:00:01 CST 2019 (2019-06-12 09:00:01 Wednesday Wed) EST 
+Info: ./love15-down.txt consumes 89423475 (85 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 1268256 (1 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love6601-down.txt consumes 22982552 (21 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 135392110 (129 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6401-down.txt consumes 88543531 (84 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love65524-down.txt consumes 1401662 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 655158758 (624 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Wed Jun 12 09:00:02 CST 2019 (2019-06-12 21:00:02 Wednesday Wed) EST 
+Info: ./love15-down.txt consumes 168777204 (160 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 1902384 (1 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love6601-down.txt consumes 34473828 (32 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 219913932 (209 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6401-down.txt consumes 181157407 (172 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love65524-down.txt consumes 2102493 (2 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 982738137 (937 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Wed Jun 12 11:35:50 CST 2019 (2019-06-12 23:35:50 Wednesday Wed) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 2536512 (2 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love6601-down.txt consumes 45965104 (43 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316612498 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6401-down.txt consumes 273801993 (261 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love65524-down.txt consumes 2803324 (2 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 1310317516 (1249 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Wed Jun 12 11:38:53 CST 2019 (2019-06-12 23:38:53 Wednesday Wed) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 2536512 (2 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love6601-down.txt consumes 45965104 (43 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6401-down.txt consumes 273801993 (261 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love65524-down.txt consumes 2803324 (2 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 1310317516 (1249 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Wed Jun 12 16:00:01 CST 2019 (2019-06-13 04:00:01 Thursday Thu) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Wed Jun 12 21:00:02 CST 2019 (2019-06-13 09:00:02 Thursday Thu) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Thu Jun 13 09:00:01 CST 2019 (2019-06-13 21:00:01 Thursday Thu) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Thu Jun 13 12:00:01 CST 2019 (2019-06-14 00:00:01 Friday Fri) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Thu Jun 13 16:00:01 CST 2019 (2019-06-14 04:00:01 Friday Fri) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Thu Jun 13 21:00:02 CST 2019 (2019-06-14 09:00:02 Friday Fri) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Fri Jun 14 09:00:02 CST 2019 (2019-06-14 21:00:02 Friday Fri) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Fri Jun 14 12:00:01 CST 2019 (2019-06-15 00:00:01 Saturday Sat) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Fri Jun 14 16:00:01 CST 2019 (2019-06-15 04:00:01 Saturday Sat) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Fri Jun 14 21:00:01 CST 2019 (2019-06-15 09:00:01 Saturday Sat) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sat Jun 15 09:00:02 CST 2019 (2019-06-15 21:00:02 Saturday Sat) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sat Jun 15 12:00:01 CST 2019 (2019-06-16 00:00:01 Sunday Sun) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sat Jun 15 16:00:01 CST 2019 (2019-06-16 04:00:01 Sunday Sun) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sat Jun 15 21:00:01 CST 2019 (2019-06-16 09:00:01 Sunday Sun) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 09:00:01 CST 2019 (2019-06-16 21:00:01 Sunday Sun) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 12:00:01 CST 2019 (2019-06-17 00:00:01 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 15:47:03 CST 2019 (2019-06-17 03:47:03 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 15:54:36 CST 2019 (2019-06-17 03:54:36 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 16:00:01 CST 2019 (2019-06-17 04:00:01 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 16:01:30 CST 2019 (2019-06-17 04:01:30 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 16:03:05 CST 2019 (2019-06-17 04:03:05 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 16:04:18 CST 2019 (2019-06-17 04:04:18 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 4959530 (4 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 16:27:02 CST 2019 (2019-06-17 04:27:02 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 7750114 (7 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 16:49:28 CST 2019 (2019-06-17 04:49:28 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 7750114 (7 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 17:08:07 CST 2019 (2019-06-17 05:08:07 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 8755522 (8 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 17:26:20 CST 2019 (2019-06-17 05:26:20 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 9686516 (9 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 17:32:22 CST 2019 (2019-06-17 05:32:22 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898051 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Updated at: Sun Jun 16 21:00:01 CST 2019 (2019-06-17 09:00:01 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 231665 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 2409181 (2 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Mon Jun 17 09:00:01 CST 2019 (2019-06-17 21:00:01 Monday Mon) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 231665 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 2409181 (2 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Mon Jun 17 12:00:01 CST 2019 (2019-06-18 00:00:01 Tuesday Tue) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 2409181 (2 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Mon Jun 17 16:00:01 CST 2019 (2019-06-18 04:00:01 Tuesday Tue) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 2409181 (2 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Mon Jun 17 21:00:01 CST 2019 (2019-06-18 09:00:01 Tuesday Tue) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 3666856 (3 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Tue Jun 18 09:00:01 CST 2019 (2019-06-18 21:00:01 Tuesday Tue) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 7491145 (7 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Tue Jun 18 12:00:01 CST 2019 (2019-06-19 00:00:01 Wednesday Wed) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 7901414 (7 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Tue Jun 18 16:00:01 CST 2019 (2019-06-19 04:00:01 Wednesday Wed) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 8765751 (8 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Tue Jun 18 21:00:01 CST 2019 (2019-06-19 09:00:01 Wednesday Wed) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 8765751 (8 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Wed Jun 19 09:00:01 CST 2019 (2019-06-19 21:00:01 Wednesday Wed) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 12820686 (12 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Wed Jun 19 12:00:02 CST 2019 (2019-06-20 00:00:02 Thursday Thu) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 12820686 (12 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Wed Jun 19 16:00:01 CST 2019 (2019-06-20 04:00:01 Thursday Thu) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 13087444 (12 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Wed Jun 19 21:00:01 CST 2019 (2019-06-20 09:00:01 Thursday Thu) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 13378366 (12 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Thu Jun 20 09:00:01 CST 2019 (2019-06-20 21:00:01 Thursday Thu) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 13378366 (12 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Thu Jun 20 12:00:01 CST 2019 (2019-06-21 00:00:01 Friday Fri) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 13378366 (12 M)
+                          limit is 21474836480 (20G/month)
+ 
+Updated at: Thu Jun 20 16:00:02 CST 2019 (2019-06-21 04:00:02 Friday Fri) EST 
+Info: ./love15-down.txt consumes 248130933 (236 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6002-down.txt consumes 10898360 (10 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love0001-down.txt consumes 1722018 (1 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-0904-down.txt consumes 10585521 (10 M)
+                          limit is 21474836480 (20G/month)
+ 
+Info: ./love0015-down.txt consumes 3845307 (3 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love1-down.txt consumes 316623942 (301 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./love6700-down.txt consumes 252605 (0 M)
+                          limit is 10737418240 (10G/month)
+ 
+Info: ./g20-6501-down.txt consumes 13420692 (12 M)
+                          limit is 21474836480 (20G/month)
+ 
