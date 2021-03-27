@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+cd /etc/v2ray/log
+
+filelist=`find ./ -size +0c`
+for file in $filelist
+do 
+ echo $file
+ cat $file | while read line
+ do
+    echo "${line}"
+ done
+ echo "------------"
+done
+
+echo "---------read all size>0 file-----------"
+
+

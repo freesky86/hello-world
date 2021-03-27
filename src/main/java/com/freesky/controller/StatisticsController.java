@@ -110,12 +110,7 @@ public class StatisticsController extends HttpServlet {
 		}
 		return num;
 	}
-	
-	private void readFile2Table() {
-		String content = FileUtils.readFile2Table();
-		bean.setContent(content);
-	}
-	
+		
 	private void readFile2Bean() {
 		FileUtils.readFile2Bean(bean);
 	}

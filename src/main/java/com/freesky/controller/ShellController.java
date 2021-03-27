@@ -34,11 +34,11 @@ public class ShellController extends HttpServlet {
 
 		String code = request.getParameter("code");
 		// String[] shellCommand = new String[] {"sh", "-c",
-		// "/etc/v2ray/shell/tool.sh"};
-		String statsShellCommand = "/etc/v2ray/shell/tool.sh";
+		// "/usr/local/etc/v2ray/shell/tool.sh"};
+		String statsShellCommand = "/usr/local/etc/v2ray/shell/tool.sh";
 		String stopCommand = "service v2ray stop";
 		String startCommand = "service v2ray start";
-		String restoreCommand = "cp /etc/v2ray/all/config.json /etc/v2ray";
+		String restoreCommand = "cp /usr/local/etc/v2ray/all/config.json /usr/local/etc/v2ray";
 
 		String restartCommand = "service v2ray restart";
 		if ("stats".equals(code)) {
