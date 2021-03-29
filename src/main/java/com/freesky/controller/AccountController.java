@@ -80,6 +80,7 @@ public class AccountController extends HttpServlet {
 		logger.info("--------read /config/config.properties--------");
 		String path = getServletContext().getRealPath("/");
 		String propertiesFile = path + File.separator + "config" + File.separator + "config.properties";
+		logger.info("config file path: " + propertiesFile);
 		Properties pps = new Properties();
 		try {
 			pps.load(new FileInputStream(propertiesFile));
