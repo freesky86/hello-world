@@ -22,7 +22,7 @@
 <!--	<p>协议 ${accountBean.protocol}</p> -->
 <!--	<p>混淆 ${accountBean.obfs}</p> -->
 <!--    <p>混淆 tls1.2_ticket_auth</p> -->
-	<a href="../admins">Admins</a> &nbsp;&nbsp; <a href="./v2">v2 account</a>
+	<a href="../admins/">Admins</a> &nbsp;&nbsp; <a href="./v2">v2 account</a>
 </div>
 </body>
 </html>
